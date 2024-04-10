@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(45deg, #ff9a9e, #fad0c4), 
+                linear-gradient(135deg, #ffdde1, #ee9ca7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+canvas {
+    background-color: #20232a;
+    border-radius: 50%;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2);
+}
